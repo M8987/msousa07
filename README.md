@@ -7,9 +7,9 @@
 
 ### 🐍 Instrutor de Python | Programador | Analista de Dados |🚀 Tornando a programação mais divertida.
 
-![GIF de programação](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRqMnhrZ3dhNmlqOWtxbTEyd3Z5eHRpZW1uMmQwbzQ5dWN2a2o3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kanka5wfr3BxGpLRQu/giphy.gif)
+![GIF de programação](https://github.com/user-attachments/assets/666202ba-6c88-424b-b5f7-8c4fe7cd1163)
 
----
+
 
 # 🚀 Experiências
 
